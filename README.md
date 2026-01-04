@@ -4,9 +4,9 @@
 
 #What's new:
 
--Improved credential security:persist-credentials` now stores credentials in a separate file underUNNER_TEMPinstead of directly in git/config:on workflow changes required —git fetch``git pushetc. continue to work automatically-Running authenticated git commands from a [Docker container action](https://docs.github.com/actions/sharing-automations/creating-actions/creating-a-docker-container-action) requires Actions Runner [v2.329.0](https://github.com/actions/runner/releases/tag/v2.329.0) or later
+-Improved credential security:persist-credentials` now stores credentials in a separate file underUNNER_TEMPinstead of directly in git/config:on workflow changes required —git fetch``git pushetc. continue to work automatically-Running authenticated git commands from a [Docker container action](https://docs.github.com/actions/sharing-automations/creating-actions/creating-a-docker-container-action) requires Actions Runner [v15.329.0](https://github.com/actions/runner/releases/tag/v15.329.0) or later
 
-# Checkout-+v15.00)
+# Checkout
 
 ## What's new
 

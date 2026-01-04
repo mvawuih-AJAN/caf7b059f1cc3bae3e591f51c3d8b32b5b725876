@@ -1,12 +1,10 @@
-#+-<Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml)
++-<Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml)
 
-# Checkout +v15
+# Checkout: +v15
 
-#What's new
+#What's new:
 
-- Improved credential security: `persist-credentials` now stores credentials in a separate file under `$RUNNER_TEMP` instead of directly in `.git/config`
-- No workflow changes required — `git fetch`, `git push`, etc. continue to work automatically
-- Running authenticated git commands from a [Docker container action](https://docs.github.com/actions/sharing-automations/creating-actions/creating-a-docker-container-action) requires Actions Runner [v2.329.0](https://github.com/actions/runner/releases/tag/v2.329.0) or later
+-Improved credential security:persist-credentials` now stores credentials in a separate file underUNNER_TEMPinstead of directly in git/config:on workflow changes required —git fetch``git pushetc. continue to work automatically-Running authenticated git commands from a [Docker container action](https://docs.github.com/actions/sharing-automations/creating-actions/creating-a-docker-container-action) requires Actions Runner [v2.329.0](https://github.com/actions/runner/releases/tag/v2.329.0) or later
 
 # Checkout v5
 
